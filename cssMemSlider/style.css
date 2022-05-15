@@ -24,7 +24,7 @@ border: 10px solid #fff;
 .navigation{
    position: absolute;
    bottom: 16px;
-   left: 50px;
+   left: 50%;
    transform: translateX(-50%);
    display: flex;
 }
