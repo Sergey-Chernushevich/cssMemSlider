@@ -149,10 +149,10 @@ input[name='r']{
 
 @media screen and (max-width: 479px) {
    body{
-      padding: 0 20px;
+      padding: 0 5px;
    }
    .slider{
-      width: 280px;
+      width: 90%;
 
       }
    .navigation{
